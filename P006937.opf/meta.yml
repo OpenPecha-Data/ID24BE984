@@ -1,15 +1,16 @@
-id: opecha:P006937
+id: P006937
 initial_creation_type: ocr
 source_metadata:
   id: bdr:W1CZ2508
   title: ཤམྦྷ་ལའི་གོ་རིམ་
-  volume:
+  author: ''
+  volumes:
     d25be2f1204a4940956224541848f967:
       image_group_id: I1CZ2510
       title: Volume 1 of shamb+ha la'i go rim
       volume_number: 1
       total_pages: 172
-  author: ''
+      base_file: v001.txt
 ebook_metadata:
   title: ཤམྦྷ་ལའི་གོ་རིམ་
   author: ''
